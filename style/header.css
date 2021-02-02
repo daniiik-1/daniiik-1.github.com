@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Montserrat:ital,wght@1,200&display=swap');
+header, header .content {
+	background-color: #edd351;
+}
+header .box {
+	background-color: transparent;
+
+}
+.link {
+	text-decoration: none;
+	color: black;
+	border: groove;
+	border-color: #ebc078;
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+}
+.linnk {
+	color: white;
+	border: groove;
+	border-color: white;
+	border-radius: 5px;
+	text-decoration: none;
+	width: 100%;
+	height: 100px;
+	display: inline-block;
+}
+.link:hover {
+	color: white;
+}
+.linnk:hover {
+	color: black;
+}
+a {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+h1 {
+	font-family: 'Hachi Maru Pop', cursive;
+}

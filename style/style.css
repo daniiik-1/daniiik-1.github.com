@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Montserrat:ital,wght@1,200&display=swap');
+
+h1 {
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Hachi Maru Pop', cursive;
+	size: 100px;
+}
+.content {
+	width: 1200px;
+	background-color: #edd351;
+	padding: 10px;
+	margin: 0 auto;
+}
+body {
+	background-color: #ebbc6c;
+}
+p {
+	font-family: cursive;
+	font-size: 22px;
+	margin: 10px 0px;
+}
+img {
+	max-height: 100%;
+	max-width: 100%;
+	border-style: groove;
+	border-color: #e6a243;
+	border-radius: 10px;
+	border-width: 6px;
+}
+.row {
+	display: flex;
+}
+.box {
+	width: 200px;
+	flex-grow: 1;
+	padding: 10px;
+	margin: 10px;
+	background-color: #ffe57d;
+}
+.col-1 {
+	flex-grow: 1;
+	background-color: #ebbc6c;
+}
+.col-2 {
+	flex-grow: 1;
+	background-color: #ebbc6c;
+}
+h2	{
+	font-family: 'Hachi Maru Pop', cursive;
+	size: 60px;
+}
+.p1 {
+	font-family: cursive;
+	font-size: 25px;
+	margin: 10px 0px;
+}
+.col-3 {
+	background-color: #ffffff;
+}
+.col-4 {
+	background-color: #ffffff;
+}
+.img1 {
+	border: groove;
+	border-color: black;
+	border-radius: 5px;
+}
+.footer {
+	font-size: 17px;
+}
+.img1 {
+	max-height: 100%;
+	max-width: 100%;
+	border-style: groove;
+	border-color: #7a7a7a;
+	border-radius: 10px;
+	border-width: 6px;
+}
+.gif1 {
+	width: 515px;
+	max-width: 100%;
+}

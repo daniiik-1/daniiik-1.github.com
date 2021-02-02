@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Montserrat:ital,wght@1,200&display=swap');
+
+#sakura {
+	background-color: #f285ed;
+}
+#sakura .content {
+	width: 1200px;
+	background-color: #f22ee8;
+	padding: 10px;
+	margin: 0 auto; 
+}
+#sakura .row {
+	display: flex;
+}
+#sakura .box {
+	width: 200px;
+	flex-grow: 1;
+	padding: 10px;
+	margin: 10px;
+	background-color: #ffe57d;
+}
+#sakura .col-1 {
+	flex-grow: 1;
+	background-color: #f285ed;
+}
+#sakura .col-2 {
+	flex-grow: 1;
+	background-color: #f285ed;
+}
+.link {
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	border: groove;
+	border-color: #ebc078;
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+}
+h1 {
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Hachi Maru Pop', cursive;
+	size: 100px;
+}
+p {
+	font-family: cursive;
+	font-size: 22px;
+	margin: 10px 0px;
+}
+#sakura img {
+	max-width: 100%;
+	border-style: groove;
+	border-color: #f22ee8;
+	border-radius: 10px;
+	border-width: 6px;
+	height: 400px;
+}
+a {
+	font-family: 'Montserrat', sans-serif;
+}
